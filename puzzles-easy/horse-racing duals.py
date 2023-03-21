@@ -13,4 +13,3 @@ for i in range(1, n - 1):
         min_diff = diff
 
 print(min_diff)
-
