@@ -30,4 +30,3 @@ num_queries = int(input())
 for _ in range(num_queries):
     x, y = map(int, input().split())
     print(search_island(island_map, x, y))
-
